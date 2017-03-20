@@ -7,7 +7,7 @@ This is the sample code to report error handle issue to viber dev team.
 
 ```
 npm install
-node index.js
+node index.js # Node version is v6.1.0
 ```
 
 The response in my case is below.

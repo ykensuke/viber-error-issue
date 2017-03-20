@@ -2,6 +2,9 @@ This is the sample code to report error handle issue to viber dev team.
 
 ### How to try
 
+1. Change config in index.js.
+2. Run below.
+
 ```
 npm install
 node index.js

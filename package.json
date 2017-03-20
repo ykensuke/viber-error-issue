@@ -1,0 +1,15 @@
+{
+  "name": "viber-error-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "viber-bot": "Viber/viber-bot-node#17b3276c3d9cd3e603b4e41ca70cddc32581886a"
+  }
+}
